@@ -2,7 +2,8 @@
 
 ---
 
-# Zotero RSS Manager
+# Zotero RSS Manager![icon](https://github.com/user-attachments/assets/187589e5-1a53-4407-9293-84a89c0878c3)
+
 
 **Zotero RSS Manager** is a tool designed to enhance the use of Zotero by enabling better management of RSS feeds. It allows you to organize, score, and add RSS feed content to specific Zotero library folders efficiently. Using NLP (Natural Language Processing), it ranks RSS content based on relevance to your existing Zotero library folders, helping streamline your workflow.
 
