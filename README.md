@@ -55,8 +55,6 @@ Research should be seamless, efficient, and empowering."
 
 ---
 
-![image](https://github.com/user-attachments/assets/9eff17b7-0641-482b-88d6-febc330f990a)
-
 ## Usage
 
 ### Adding RSS Feeds to Zotero
