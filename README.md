@@ -14,7 +14,9 @@
 ### How to Use
 1. Run the executable file on your Windows machine.
 2. Follow the instructions to integrate with your Zotero library.
+<img src="https://github.com/user-attachments/assets/d32b3db4-fdca-465f-a250-a2bdd15bec2d"  alt="icon" width="400" />
 
+<img src="https://github.com/user-attachments/assets/69f89cf7-c06d-4035-a36c-35d926b5d19f"  alt="icon" width="400" />
 
 ---
 
